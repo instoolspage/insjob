@@ -12,7 +12,7 @@
 <nav><ul>
 	
         <li><a href="#">Registro</a></li>
-        <li><a href="#">Ingresar</a></li>
+        <li><a href="ingresar.php">Ingresar</a></li>
         <li><a href="#">Contáctenos</a></li>
         <li><a href="#">Sobre Nosotros</a></li>
         <li><a href="#">Empleado</a>
