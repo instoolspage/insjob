@@ -3,7 +3,7 @@
 <head>
 	<title>Inicio</title>
 <meta charset="UTF-8">
-<link rel="stylesheet" type="text/css" href="estilo.css">
+<link rel="stylesheet" type="text/css" href="indstyle.css">
 </head>
 <body>
 
