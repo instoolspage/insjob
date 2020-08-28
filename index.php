@@ -25,7 +25,7 @@
             </li>
         <li><a href="index.php">Inicio</a></li>
     </ul></nav>
-   <img src="logo 2 2.png" style="width: 200px; height: 90px;margin-left: 60px;">
+   <img src="logo.png" style="width: 200px; height: 90px;margin-left: 60px;">
    </div>
 
 
